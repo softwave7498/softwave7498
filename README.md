@@ -1,7 +1,9 @@
 ## Hi 👋, I am Mohit
 ![image](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### Tata Consultancy Services [November 2020 - present]
  - 🗜️ &nbsp; Under Construction
